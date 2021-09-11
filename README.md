@@ -12,3 +12,6 @@
 #### 3、登录成功后保存token至sessionStorage中
     localStorage：永久化
     sessionStorage：会话期间
+
+### 主页功能
+#### 1、利用axios拦截器增加请求头中的内容
